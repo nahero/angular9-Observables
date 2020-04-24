@@ -1,3 +1,8 @@
+# Angular 2020 Udemy - section 13: observables
+Just a practice on setting up a repo from local project
+
+-----------------------------
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
